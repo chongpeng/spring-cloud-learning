@@ -11,5 +11,7 @@
  </parent>
   <modules>
   	<module>spring-cloud-eureka</module>
+  	<module>spring-cloud-producter</module>
+  	<module>spring-cloud-consumer</module>
   </modules>
 </project>
